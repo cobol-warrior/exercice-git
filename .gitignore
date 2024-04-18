@@ -1,0 +1,13 @@
+#maven
+#dossier /target
+target/
+#eclipse
+.classpath
+.project
+.settings/
+#vscode
+.vscode/
+#System files
+.DS_Store
+Thumbs.db
+_MACOSX
